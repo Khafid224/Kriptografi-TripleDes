@@ -130,7 +130,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <?php endif; ?>
         <br>
         <p class="text-center">©presented_by_Abdul Hafid</p>
-        <p class="text-center">Tahun: 2025/2026</p>
+        <p class="text-center">TUGAS MATKUL KEAMANAN SI</p>
     </div>
 
 </body>
